@@ -1,0 +1,22 @@
+.masthead-avatar {
+    width: 15rem;
+    border-radius: 50%;
+}
+
+/*
+.bg-secondary {
+    background-color: coral !important;
+}
+
+.bg-primary {
+    background-color: indianred !important;
+}
+*/
+h3 {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.img-rounded {
+    border-radius: 50%;
+}
